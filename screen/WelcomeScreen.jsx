@@ -98,7 +98,7 @@ const styles = StyleSheet.create({
   },
   topImageContainer: {
     width: "100%",
-    height: height * 0.25, // Adjust height relative to screen size
+    height: height * 0.25,
     position: "absolute",
     top: 0,
   },
